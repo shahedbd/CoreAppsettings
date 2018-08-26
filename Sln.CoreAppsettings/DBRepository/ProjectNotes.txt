@@ -1,0 +1,5 @@
+﻿
+
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/
+Install-Package Microsoft.EntityFrameworkCore -Version 2.1.2
+
